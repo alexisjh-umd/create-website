@@ -1,0 +1,90 @@
+.home,
+.home * {
+  box-sizing: border-box;
+}
+.home {
+  background: #080808;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.alexis-herbert-university-of-maryland-december-2025 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 279px;
+  top: 922px;
+  width: 917px;
+  height: 62px;
+}
+.call-to-action-button {
+  background: #a8ff35;
+  border-radius: 57px;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 641px;
+  top: 654px;
+  box-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.25);
+}
+.get-started {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 657px;
+  top: 669px;
+  width: 147px;
+  height: 38px;
+}
+.subtitle {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 133px;
+  top: 479px;
+  width: 1143px;
+  height: 116px;
+}
+.alexis-herbert {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 44px;
+  font-weight: 700;
+  position: absolute;
+  left: 1px;
+  top: 33px;
+  width: 442px;
+  height: 78px;
+}
+.heading {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 72px;
+  font-weight: 700;
+  position: absolute;
+  left: 14px;
+  top: 322px;
+  width: 1411px;
+  height: 98px;
+}
+.menu-items {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 918px;
+  top: 33px;
+}

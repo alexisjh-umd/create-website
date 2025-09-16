@@ -1,0 +1,75 @@
+.contact,
+.contact * {
+  box-sizing: border-box;
+}
+.contact {
+  background: #080808;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.main-menu {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 918px;
+  top: 33px;
+}
+.footer {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 279px;
+  top: 922px;
+  width: 917px;
+  height: 62px;
+}
+.course-information {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: calc(50% - 640px);
+  top: 378px;
+  width: 1264px;
+  height: 423px;
+}
+.course-information-span {
+  font-family: "Montserrat-Regular", sans-serif;
+}
+.course-information-span2 {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 700;
+}
+.alexis-herbert {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 44px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: 33px;
+  width: 442px;
+  height: 78px;
+}
+.course-title {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 72px;
+  font-weight: 700;
+  position: absolute;
+  left: 80px;
+  top: 243px;
+  width: 1411px;
+  height: 98px;
+}
